@@ -1,0 +1,6 @@
+Иванов,Иван,111,описание Иванова
+Петров,Петр,222,описание Петрова
+Васичкина,Василиса,+7898765432,yasuperstar@mail.ru
+Molly,Polly,9112347788,sexy_polly@call.me
+Golubev,Oleg,89113345566,oleg_golubev@mail.ru
+Fax,Max,228345112,max_fax@loh.org
